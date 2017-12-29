@@ -1,1 +1,1 @@
-# python implementation of Neighborhood Preserving Embedding
+# python implementation of dimenionality reduction methods
